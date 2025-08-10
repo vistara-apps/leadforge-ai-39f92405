@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "LeadForge AI",
+    "subtitle": "Built with Zara",
+    "description": "LeadForge AI is a Base Mini App built with Zara.",
+    "iconUrl": "$NEXT_PUBLIC_URL/logo.png",
+    "homeUrl": "https://39f92405-f152-4a9c-8c5a-1036501b8959.vistara.dev",
+    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "tagline": "LeadForge AI",
+    "screenshotUrls": [
+      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
+      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "mini app",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://39f92405-f152-4a9c-8c5a-1036501b8959.vistara.dev/api/webhook"
+  }
+}
