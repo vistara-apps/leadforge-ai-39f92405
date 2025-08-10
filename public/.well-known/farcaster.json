@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "LeadForge AI is a Base Mini App built with Zara.",
     "iconUrl": "$NEXT_PUBLIC_URL/logo.png",
-    "homeUrl": "https://39f92405-f152-4a9c-8c5a-1036501b8959.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://39f92405f1524a9c8c5a1036501b8959-pj9s.vercel.app",
+    "splashImageUrl": "https://39f92405f1524a9c8c5a1036501b8959-pj9s.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://39f92405f1524a9c8c5a1036501b8959-pj9s.vercel.app/image.png",
     "tagline": "LeadForge AI",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://39f92405f1524a9c8c5a1036501b8959-pj9s.vercel.app/screenshot.png",
+      "https://39f92405f1524a9c8c5a1036501b8959-pj9s.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "mini app",
       "onchainkit"
     ],
-    "webhookUrl": "https://39f92405-f152-4a9c-8c5a-1036501b8959.vistara.dev/api/webhook"
+    "webhookUrl": "https://39f92405f1524a9c8c5a1036501b8959-pj9s.vercel.app/api/webhook"
   }
 }
